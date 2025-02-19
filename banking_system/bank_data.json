@@ -1,0 +1,10 @@
+{
+    "hitesh": {
+        "password": "22354a3e6dc6fb244bc41c92656dcea971010620720641c5657e1746ab72b282",
+        "balance": 49000.0,
+        "transactions": [
+            "Deposited $50000.00",
+            "Withdrew $1000.00"
+        ]
+    }
+}
