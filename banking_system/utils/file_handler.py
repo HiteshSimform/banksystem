@@ -22,5 +22,3 @@ def save_data(data):
             json.dump(data, f, indent=4)
     except IOError as e:
         logging.error(f"Failed to save data: {e}")
-
-# data handle - file and databse - based on requirements
