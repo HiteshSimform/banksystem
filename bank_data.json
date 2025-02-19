@@ -1,0 +1,23 @@
+{
+    "rana": {
+        "password": "c3bba1b7c43b6050bbeec1233b10fcc471f008da0232d798c01760374a942c59",
+        "balance": 7100.0,
+        "transactions": [
+            "Deposited $10000.00",
+            "Withdrew $2000.00",
+            "Transferred $1000.00 to hitesh",
+            "Withdrew $400.00",
+            "Received $500.00 from hitesh"
+        ]
+    },
+    "hitesh": {
+        "password": "22354a3e6dc6fb244bc41c92656dcea971010620720641c5657e1746ab72b282",
+        "balance": 9500.0,
+        "transactions": [
+            "Received $1000.00 from rana",
+            "Deposited $10000.00",
+            "Withdrew $1000.00",
+            "Transferred $500.00 to rana"
+        ]
+    }
+}
